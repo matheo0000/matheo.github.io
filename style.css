@@ -1,0 +1,40 @@
+h1 {
+	color: red;
+}
+h1 { 
+	text-align: center; 
+	text-decoration:underline;
+	font-family: "Gill Sans", sans-serif;
+}
+h3 {
+	text-decoration:underline;
+}
+
+h3 {
+	color: red;
+	text-align: center;
+	font-family: "Gill Sans", sans-serif;
+}
+h4 {
+	text-decoration:underline;
+	text-align: center;
+}
+
+h5 {
+	text-align: center; 
+}
+body {
+	color:black;
+	background-color:black;
+}
+p {
+	color: #FF8C00
+}
+p {
+	font-family: sans-serif;
+}
+h6 {
+	width:1320px;
+	height:800px;
+	background:white;
+}
